@@ -1,0 +1,9 @@
+DATASETS USED
+
+1. Taxi data (yellow and green) - 2015
+(http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
+
+2. Dataset for neighborhoods of NYC (pediacitiesnycneighborhoods.geojson)
+
+3. Median income per neighborhood in Manhattan 
+(http://www.city-data.com/nbmaps/neigh-New-York-New-York.html)
